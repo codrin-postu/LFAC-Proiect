@@ -1,0 +1,18 @@
+Acest fisier este in lucru
+--------------------
+
+Variabilele declarate sunt:
+Nume - var1 | Tip -  NUMBER | Locul declararii - Nu e gata | Valoare - Nu e gata
+Nume - var1 | Tip -  NUMBER | Locul declararii - Nu e gata | Valoare - Nu e gata
+Nume - var3 | Tip -  NUMBER | Locul declararii - Nu e gata | Valoare - Nu e gata
+Nume - float1 | Tip -  FLOATY | Locul declararii - Nu e gata | Valoare - Nu e gata
+Nume - float2 | Tip -  FLOATY | Locul declararii - Nu e gata | Valoare - Nu e gata
+Nume - bool1 | Tip -  BOLL | Locul declararii - Nu e gata | Valoare - Nu e gata
+Nume - bool2 | Tip -  BOLL | Locul declararii - Nu e gata | Valoare - Nu e gata
+Nume - var | Tip -  NUMBER | Locul declararii - Nu e gata | Valoare - Nu e gata
+Nume - val1 | Tip -  NUMBER | Locul declararii - Nu e gata | Valoare - Nu e gata
+Nume - val5 | Tip -  NUMBER | Locul declararii - Nu e gata | Valoare - Nu e gata
+
+
+Functiile declarate sunt:
+Nume - functionName | Tip -  NUMBER | Tipul argumentelor - [NUMBER,NUMBER] | Numele Argumentelor - NU e gata | Locul declararii - Nu e gata
